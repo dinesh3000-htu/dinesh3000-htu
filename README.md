@@ -97,13 +97,6 @@ an outlier ("8σ above normal on inter-arrival"), not just a score.
 
 <div align="center">
 
-### GitHub activity
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dinesh3000-htu&show_icons=true&hide_border=true&theme=transparent&count_private=true" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh3000-htu&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="top languages"/>
-
-<br/><br/>
-
 **Building in the open. If you're working on agentic AI or its security, let's talk.**
 
 <a href="https://www.linkedin.com/in/dinesh-gehlot-004418361">LinkedIn</a> &nbsp;·&nbsp;
