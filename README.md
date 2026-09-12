@@ -2,7 +2,7 @@
 
 # Dinesh Gehlot
 
-### Software Developer @ Propelius · I build LLM agents — and the tools to secure them
+### Software Developer @ Propelius · AI · Agentic AI · Backend Engineering · Applied ML
 
 <p>
   <a href="https://www.linkedin.com/in/dinesh-gehlot-004418361">
@@ -23,20 +23,21 @@
 
 ## About
 
-I build AI applications for a living — at **Propelius Technologies** I work on an
-agentic-AI e-commerce platform with **Python, LangChain, and LangGraph**, running LLM
-workloads on Modal.
+I'm a software developer who works across modern AI and backend engineering. Day to day
+that's **LLM applications and agentic AI**, but I move across the stack — web scraping and
+automation, REST APIs and services, and applied-ML tooling. Currently building at
+**Propelius Technologies**.
 
 The more I build with LLM agents, the more the **security side** pulls at me. Agents read
 untrusted content; tools get near-total trust from the model the moment they're connected.
-There's a wide gap between shipping an AI agent and shipping one you can *trust* — and not
-many people are working in that gap yet. So I build open-source tools there, and I like
-finding the ways agents break as much as building them.
+There's a wide gap between shipping an AI agent and shipping one you can *trust* — so I
+build open-source tools in that gap, and I enjoy finding the ways agents break as much as
+building them.
 
-- 🔭 **Focus:** agentic AI, LLM tooling, and the security problems that come with them
-- 🌱 **Also into:** network threat detection, applied ML, and clean backend architecture
+- 🔭 **Working across:** LLM apps & agentic AI · backend APIs · applied ML
+- 🛠️ **Also:** web scraping & automation, data pipelines, network & security tooling
 - 🎓 B.Tech in Computer Science, Uka Tarsadia University
-- 💬 Ask me about prompt injection, agent tool security, or LangGraph
+- 💬 Ask me about prompt injection, agent tool security, LangGraph, or scraping at scale
 
 ---
 
